@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "lilu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.10.1",
+    "normalize.css": "^3.0.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.2.0",
+    "postcss-cli": "^2.3.2",
+    "postcss-import": "^7.1.3"
+  }
 }
